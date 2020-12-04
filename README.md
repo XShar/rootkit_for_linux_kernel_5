@@ -3,6 +3,8 @@
  
  Проект для конкурсной статьи: https://xss.is/threads/43479/
  
+ Прочитать статью можно также на мём форуме:https://ru-sfera.org/threads/izuchaem-rutkity-na-primere-rutkita-dlja-linux-kernel-5.4144/
+ 
  Описание проекта руткита и запуск/тестирование:
 
 Проект состоит из следующих модулей:
